@@ -102,7 +102,7 @@ model = joblib.load('logistic_regression_model.pkl')
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Anaamalikhan/Logistic_Regression.git
 
 2. Install dependencies:
    pip install -r requirements.txt
